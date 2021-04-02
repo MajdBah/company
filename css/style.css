@@ -656,6 +656,10 @@ footer .copyright p {
         right: 2%;
     }
 
+    header .overlay .slider {
+        padding-top: 70px;
+    }
+
     .work-gallery .col-md>.col-sm>a {
         display: block !important;
     }
